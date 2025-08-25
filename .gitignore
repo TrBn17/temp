@@ -67,3 +67,5 @@ Thumbs.db
 *.tmp
 *.swp
 *~
+
+.env
